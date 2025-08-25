@@ -46,7 +46,8 @@ The project has been tested on three datasets:
   - `get_information_gain`
   - `get_selected_attribute`
   
-- `test.py` – Testing and evaluation framework (provided by faculty).
+- `test.py` – Testing and evaluation framework (provided by faculty /TA).
+- `student_lab.py` - (provided by faculty / TA).
 
 - `mushroom.csv`, `tictactoe.csv`, `nursery.csv` – Sample datasets.
 
