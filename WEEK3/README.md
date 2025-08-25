@@ -1,6 +1,6 @@
 # ID3 Decision Tree Classifier – Lab 3
 
-## Author
+## Done By
 **Sharath Gowda G R**  
 **PES2UG24CS823**
 
