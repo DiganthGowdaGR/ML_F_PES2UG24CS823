@@ -30,5 +30,28 @@ Example:
 python test.py --ID EC_F_823_Lab3 --data mushroom.csv
 ```
 
+---
+
+# 🧪 Lab 4 – Model Selection & Analysis  
+
+**Name:** SHARATH GOWDA GR | **SRN:** PES2UG24CS823  
+
+---
+
+## 🔑 Highlights  
+- Compared **Manual Grid Search** 🔄 vs **GridSearchCV** ⚡  
+- Datasets: 🍷 Wine | 🧑‍💼 HR Attrition | 💵 Banknote | ⚗️ QSAR  
+- Pipeline: `StandardScaler → SelectKBest → Classifier`  
+- Models: 🌳 Decision Tree | 👥 kNN | ➗ Logistic Regression  
+- ✅ Consistent results | ⚡ GridSearchCV faster  
+- 📊 Confusion Matrices & ROC Curves generated  
+- ✔️ Key Learnings: Pipelines, Tuning, Cross-Validation  
+
+---
+
+## 🛠 Tools  
+🐍 Python | 📦 scikit-learn | 📊 matplotlib, seaborn | 🔢 pandas, numpy  
+
+
 ## Full explained inside the folder
 ## Feel Free To Fork this Repository
