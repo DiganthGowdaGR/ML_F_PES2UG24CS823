@@ -5,7 +5,8 @@
 **Course:** Machine Learning  
 **Lab:** WEEK 4  
 
-** as mentioned in class only code file pushed **
+---
+as mentioned in class only code file pushed
 ---
 
 ## 📖 Introduction  
