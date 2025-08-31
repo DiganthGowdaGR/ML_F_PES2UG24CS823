@@ -99,6 +99,7 @@ Key learnings from this lab:
 
 ## 📂 Folder Structure (Suggested)  
 
+`
 Lab4/
 │── datasets/ # Datasets provided
 │── notebooks/ # Jupyter notebooks
@@ -106,7 +107,7 @@ Lab4/
 │── manual_grid_search.py # Manual implementation
 │── gridsearchcv.py # GridSearchCV implementation
 │── README.md # Report
-
+`
 
 ---
 
