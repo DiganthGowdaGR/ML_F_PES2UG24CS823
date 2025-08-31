@@ -5,6 +5,7 @@
 **Course:** Machine Learning  
 **Lab:** WEEK 4  
 
+** as mentioned in class only code file pushed **
 ---
 
 ## 📖 Introduction  
@@ -95,19 +96,6 @@ Key learnings from this lab:
 - 📊 matplotlib / seaborn (for visualization)  
 - 🔢 numpy / pandas  
 
----
-
-## 📂 Folder Structure (Suggested)  
-
-`
-Lab4/
-│── datasets/ # Datasets provided
-│── notebooks/ # Jupyter notebooks
-│── results/ # Confusion matrices, ROC curves
-│── manual_grid_search.py # Manual implementation
-│── gridsearchcv.py # GridSearchCV implementation
-│── README.md # Report
-`
 
 ---
 
