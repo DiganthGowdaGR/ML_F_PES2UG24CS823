@@ -32,26 +32,28 @@ python test.py --ID EC_F_823_Lab3 --data mushroom.csv
 
 ---
 
-# 🧪 Lab 4 – Model Selection & Analysis  
+# Lab 4 – Model Selection & Comparative Analysis  
 
-**Name:** SHARATH GOWDA GR | **SRN:** PES2UG24CS823  
-
----
-
-## 🔑 Highlights  
-- Compared **Manual Grid Search** 🔄 vs **GridSearchCV** ⚡  
-- Datasets: 🍷 Wine | 🧑‍💼 HR Attrition | 💵 Banknote | ⚗️ QSAR  
-- Pipeline: `StandardScaler → SelectKBest → Classifier`  
-- Models: 🌳 Decision Tree | 👥 kNN | ➗ Logistic Regression  
-- ✅ Consistent results | ⚡ GridSearchCV faster  
-- 📊 Confusion Matrices & ROC Curves generated  
-- ✔️ Key Learnings: Pipelines, Tuning, Cross-Validation  
+**Name:** SHARATH GOWDA GR  
+**SRN:** PES2UG24CS823  
+**Course:** Machine Learning | **Lab:** Week 4  
 
 ---
 
-## 🛠 Tools  
-🐍 Python | 📦 scikit-learn | 📊 matplotlib, seaborn | 🔢 pandas, numpy  
+## Highlights  
+- Compared Manual Grid Search vs GridSearchCV  
+- Datasets: Wine Quality, HR Attrition, Banknote Authentication, QSAR Biodegradation  
+- Pipeline: StandardScaler → SelectKBest → Classifier  
+- Models: Decision Tree, k-Nearest Neighbors, Logistic Regression  
+- Both methods gave consistent results; GridSearchCV was faster  
+- Generated confusion matrices and ROC curves  
+- Key learnings: pipelines, hyperparameter tuning, cross-validation  
 
+---
+
+## Tools  
+Python, scikit-learn, pandas, numpy, matplotlib, seaborn  
+---
 
 ## Full explained inside the folder
 ## Feel Free To Fork this Repository
