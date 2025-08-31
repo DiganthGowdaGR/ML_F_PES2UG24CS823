@@ -1,4 +1,4 @@
-# 🧪 Lab 4 – Model Selection and Comparative Analysis  
+# Lab 4 – Model Selection and Comparative Analysis  
 
 **Name:** SHARATH GOWDA GR  
 **SRN:** PES2UG24CS823  
