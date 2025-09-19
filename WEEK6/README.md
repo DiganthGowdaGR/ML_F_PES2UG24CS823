@@ -4,13 +4,13 @@
 
 ---
 
-## 📌 Overview
+## Overview
 This project was completed as part of the **Artificial Neural Networks (ANN) lab**.  
 The main objective was to **implement a neural network from scratch** (without using high-level frameworks like TensorFlow or PyTorch) and train it to approximate a synthetic polynomial dataset generated based on my SRN.  
 
 ---
 
-## 🚀 Tasks Completed
+## Tasks Completed
 - Implemented **core components** of a neural network:  
   - **Activation functions** → ReLU and its derivative.  
   - **Loss function** → Mean Squared Error (MSE).  
@@ -30,7 +30,7 @@ The main objective was to **implement a neural network from scratch** (without u
 
 ---
 
-## 🔑 Key Learnings
+## Key Learnings
 1. **Activation Functions**  
    - ReLU worked significantly better than Sigmoid for this architecture.  
    - Sigmoid led to poor performance (low R² and high loss).  
@@ -54,7 +54,7 @@ The main objective was to **implement a neural network from scratch** (without u
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 | Experiment | Learning Rate | Batch Size | Epochs | Activation | Final Train Loss | Final Test Loss | R² Score |
 |------------|--------------|------------|--------|------------|------------------|-----------------|----------|
 | Exp1       | 0.005        | 32         | 500    | ReLU       | 0.1296           | 0.1370          | 0.8677   |
@@ -66,7 +66,7 @@ The main objective was to **implement a neural network from scratch** (without u
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 From this assignment, I learned:  
 - How to **design, implement, and train** a neural network completely from scratch.  
 - The importance of **proper weight initialization (Xavier)** in stabilizing training.  
