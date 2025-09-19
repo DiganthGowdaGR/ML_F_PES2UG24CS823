@@ -59,11 +59,11 @@ Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 # WEEK-06 Neural Network Function Approximation 
 ---
 
-## 📌 Overview
+##  Overview
 Implemented a **neural network from scratch** to approximate a polynomial dataset generated from my SRN. Learned how activation functions, initialization, and hyperparameters affect training.
 
 ---
-## 🔑 Key Learnings
+##  Key Learnings
 - **ReLU > Sigmoid** → ReLU gave much better results.  
 - **Xavier initialization** prevented vanishing/exploding gradients.  
 - **Learning rate (0.005)** and **batch size (32)** worked best.  
@@ -72,7 +72,7 @@ Implemented a **neural network from scratch** to approximate a polynomial datase
 
 ---
 
-## 📊 Best Result
+## Best Result
 - **Config:** ReLU, LR=0.005, Batch=32, Epochs=500  
 - **Final Test Loss:** ~0.137  
 - **R² Score:** ~0.867  
