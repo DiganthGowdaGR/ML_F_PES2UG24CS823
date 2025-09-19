@@ -1,4 +1,4 @@
-# UE23CS352A: MACHINE LEARNING  
+# UE23CS352A: MACHINE LEARNING WEEK-06
 ## Neural Network Function Approximation  
 ### SRN: PES2UG24CS823  
 
