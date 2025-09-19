@@ -1,4 +1,5 @@
-# Week 3 – Decision Tree (ID3)
+# INCLUDED ALL THE WEEKS SHORT EXPLAINATION DOWN
+# Week-03 – Decision Tree (ID3)
 
 PES2UG24CS823
 
@@ -32,11 +33,7 @@ python test.py --ID EC_F_823_Lab3 --data mushroom.csv
 
 ---
 
-# Lab 4 – Model Selection & Comparative Analysis  
-
-**Name:** SHARATH GOWDA GR  
-**SRN:** PES2UG24CS823  
-**Course:** Machine Learning | **Lab:** Week 4  
+# WEEK-04 – Model Selection & Comparative Analysis   
 
 ---
 
@@ -57,3 +54,27 @@ Python, scikit-learn, pandas, numpy, matplotlib, seaborn
 
 ## Full explained inside the folder
 ## Feel Free To Fork this Repository
+
+---
+# WEEK-06 Neural Network Function Approximation 
+---
+
+## 📌 Overview
+Implemented a **neural network from scratch** to approximate a polynomial dataset generated from my SRN. Learned how activation functions, initialization, and hyperparameters affect training.
+
+---
+## 🔑 Key Learnings
+- **ReLU > Sigmoid** → ReLU gave much better results.  
+- **Xavier initialization** prevented vanishing/exploding gradients.  
+- **Learning rate (0.005)** and **batch size (32)** worked best.  
+- Best model achieved **R² ≈ 0.86** on test data.  
+- Low training loss ≠ good generalization → balance is key.  
+
+---
+
+## 📊 Best Result
+- **Config:** ReLU, LR=0.005, Batch=32, Epochs=500  
+- **Final Test Loss:** ~0.137  
+- **R² Score:** ~0.867  
+
+---
