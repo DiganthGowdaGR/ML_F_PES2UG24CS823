@@ -78,3 +78,14 @@ Implemented a **neural network from scratch** to approximate a polynomial datase
 - **R² Score:** ~0.867  
 
 ---
+
+# WEEK-10 Support Vector Machine (SVM) Classifier
+
+## Overview
+This project explores **Support Vector Machine (SVM)** classifiers using different kernel functions such as linear, RBF, and polynomial.  
+It includes experiments on both synthetic (Moons) and real-world (Banknote Authentication) datasets.  
+The project demonstrates data preprocessing, model training, evaluation, and visualization of decision boundaries.  
+It also analyzes the impact of the regularization parameter **C** to explain hard and soft margin concepts.  
+Overall, this lab provides a clear understanding of how SVMs perform across various data patterns and parameter settings.
+
+---
