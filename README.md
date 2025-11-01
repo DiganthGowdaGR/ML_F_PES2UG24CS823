@@ -89,3 +89,23 @@ It also analyzes the impact of the regularization parameter **C** to explain har
 Overall, this lab provides a clear understanding of how SVMs perform across various data patterns and parameter settings.
 
 ---
+# WEEK-12 Naive Bayes Classifier
+## Overview
+This project performs text classification on PubMed biomedical abstract sentences and predicts which section a sentence belongs to (BACKGROUND, METHODS, RESULTS, OBJECTIVE, CONCLUSIONS).
+
+Three approaches were implemented:
+1. **Multinomial Naive Bayes from Scratch (CountVectorizer)**
+2. **Sklearn MultinomialNB with TF-IDF and Hyperparameter Tuning**
+3. **Bayes Optimal Classifier Approximation using Soft Voting Ensemble**
+
+## Final Performance Summary
+| Model | Accuracy | Macro F1 |
+|-------|----------|----------|
+| Scratch Naive Bayes | 0.7337 | 0.6655 |
+| Sklearn MNB (tuned) | - | 0.6567 (CV best) |
+| BOC Soft Ensemble | 0.6988 | 0.5958 |
+
+---
+
+
+
