@@ -107,5 +107,12 @@ Three approaches were implemented:
 
 ---
 
+# WEEK-13 Clustering Lab Instructions
+## Overview
+1. This project implements an enhanced K-means algorithm using K-means++ initialization and Manhattan distance.  
+2. The clustering process was evaluated using inertia, silhouette scores, and PCA-based visualizations, identifying three optimal clusters.  
+3. Cluster characteristics were analyzed through statistical summaries and feature-wise comparisons.  
+4. Outliers were detected using distance-to-centroid thresholds, resulting in 639 identified anomalies.  
+5. A feature correlation matrix was generated to understand relationships between variables in the dataset.
 
 
