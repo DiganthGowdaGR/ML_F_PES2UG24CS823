@@ -115,4 +115,14 @@ Three approaches were implemented:
 4. Outliers were detected using distance-to-centroid thresholds, resulting in 639 identified anomalies.  
 5. A feature correlation matrix was generated to understand relationships between variables in the dataset.
 
+---
+
+# WEEK-14 CNN Rock–Paper–Scissors Classifier
+## Overview
+
+- This project implements a Convolutional Neural Network (CNN) using PyTorch to classify images of hand gestures into rock, paper, or scissors.  
+- The model uses a three-block Conv2d–ReLU–MaxPool architecture followed by a fully connected classifier with dropout for regularization.  
+- Trained on the Rock–Paper–Scissors dataset (2000+ images), the model achieved a test accuracy of 97.95% after 10 epochs.  
+- GPU training with the Adam optimizer and CrossEntropyLoss enabled fast and stable convergence.  
+- The model generalizes well, with potential improvements including data augmentation and transfer learning using pre-trained networks.
 
